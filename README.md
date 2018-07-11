@@ -1,8 +1,7 @@
-**IMPORTANT PLEASE READ CAREFULLY:**
-**(UNRESTRICTED SOFTWARE)** 
-##  LinkOS_SDK license ENDUSER [LICENSE AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
-<br/>
-<br/>
+# PCCard_IDCardDesignerDemo
+###### __IMPORTANT:__ BEFORE USING PLEASE READ CAREFULLY THE ENDUSER [LICENSE_ AGREEMENT](http://link-os.github.io/Zebra_SDK_EULA.pdf)
+<br />
+
 
 <p float="left">
 <img width="432" height=”600” alt="screen shot 2018-07-10 at 10 47 24 am" src="https://user-images.githubusercontent.com/41017424/42521537-bddebb38-842e-11e8-84d2-4d365b6fecd7.png">
